@@ -1,7 +1,7 @@
 # Batu Gunting Kertas
 Rock Paper Scissor
 
-![insert_gif](insert_gif_here)
+![rockpaperscissors_gif](https://thumbs.gfycat.com/RegalAssuredGossamerwingedbutterfly-size_restricted.gif)
 
 ---
 
