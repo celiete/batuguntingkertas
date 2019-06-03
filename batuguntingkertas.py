@@ -33,7 +33,6 @@ def impossible_comp_pick():
     else : comp = choices(1)
     return user, comp
 
-
 def logic(user, comp):
     if user == choices(0):
         if comp == choices(0):
@@ -65,7 +64,6 @@ def impossible_game():
     print(user + " vs " + comp)
     logic(user, comp)
 
-
 if __name__ == "__main__":
     on = True
     while on == True:
@@ -75,5 +73,4 @@ if __name__ == "__main__":
         elif ans == 2 :
             impossible_game()
         else : on = False
-
 
